@@ -18,7 +18,8 @@ This project uses deep learning models (e.g., CNN and ResNet/Inception) to detec
 - 🖼️ Compatible with pre-trained face detectors like `deploy.prototxt` and `res10_300x300_ssd_iter_140000.caffemodel`.
 
 ---
-
+<div align= "center"><img width="977" height="516" alt="Screenshot 2025-07-17 153726" src="https://github.com/user-attachments/assets/6cce83b7-7d71-4569-85b9-9c34c435ad62" />
+</div>
 
 
 
