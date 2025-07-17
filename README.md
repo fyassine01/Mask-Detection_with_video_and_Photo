@@ -1,4 +1,6 @@
 # 🧠 Face Mask Detection with Deep Learning
+<img width="301" height="283" alt="image" src="https://github.com/user-attachments/assets/10c6bb78-959f-4636-a225-68ad4ac52a93" />
+
 
 This project uses deep learning models (e.g., CNN and ResNet/Inception) to detect whether people are wearing face masks in real-time or on images and videos. The models are trained to classify faces into two categories: **"Mask"** and **"No Mask"**.
 
@@ -15,5 +17,6 @@ This project uses deep learning models (e.g., CNN and ResNet/Inception) to detec
 
 ---
 
-## 🗂️ Project Structure
+<img width="977" height="516" alt="image" src="https://github.com/user-attachments/assets/46abf698-644b-483b-b107-efbd0c794aec" />
+
 
